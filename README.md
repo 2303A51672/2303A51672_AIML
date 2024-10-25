@@ -3,3 +3,4 @@ AIML-2 (https://github.com/2303A51672/2303A51672_AIML/blob/main/Lab02_AIML_.ipyn
 AMIL-3 (https://github.com/2303A51672/2303A51672_AIML/blob/main/Lab3_AIML.ipynb)
 AIML-4 (https://github.com/2303A51672/2303A51672_AIML/blob/main/lab4.ipynb)
 AIML-5 (https://github.com/2303A51672/2303A51672_AIML/blob/main/Lab05-AIML.ipynb.txt)
+AIML-6 (https://github.com/2303A51672/2303A51672_AIML/blob/main/lab6.ipynb)

@@ -6,3 +6,4 @@
 6. AIML-6 (https://github.com/2303A51672/2303A51672_AIML/blob/main/lab6.ipynb)
 7. AMIL-7 (https://github.com/2303A51672/2303A51672_AIML/blob/main/LAB_7.ipynb)
 8. AIML-8 (https://github.com/2303A51672/2303A51672_AIML/blob/main/lab_8.ipynb)
+9. AIML-9 (https://github.com/2303A51672/2303A51672_AIML/blob/main/lab_9.ipynb)
